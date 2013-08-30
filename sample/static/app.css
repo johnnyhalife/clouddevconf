@@ -1,0 +1,20 @@
+.container-narrow {
+	width: 650px;
+	margin: 30px auto;
+}
+
+#txt-large {
+	padding: 11px 19px;
+	font-size: 30px;
+	width: 620px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	display: inline-block;
+}
+
+.container-narrow .btn-success {
+	display: block;
+	width: 120px;
+	margin: 10px auto;
+}

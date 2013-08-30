@@ -1,0 +1,8 @@
+{
+  "name": "clouddevconf",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "~3.3.7",
+    "azure": "~0.7.15"
+  }
+}
